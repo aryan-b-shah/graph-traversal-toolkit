@@ -1,4 +1,4 @@
-# Graph Traversal Toolkit
+# Optimized Graph Traversal with Dijkstra’s Algorithm
 
 ## 🧠 Overview
 This C++ project implements graph traversal algorithms with a focus on Dijkstra’s shortest path algorithm. It simulates traversal through various graph topologies using a modular object-oriented approach.
